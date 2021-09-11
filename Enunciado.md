@@ -1,6 +1,7 @@
 # Pasos a seguir
 
 **1. Abrimos una consola de comandos (en Windows ejecutamos la aplicación "Símbolo del sistema" o la orden "cmd").**
+
 **2. En nuestro disco local, vamos a la carpeta donde tenemos nuestros desarrollos. En mi caso:**
    ```
     cd C:\Users\Nacho\21-React\
