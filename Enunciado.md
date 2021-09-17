@@ -65,7 +65,7 @@ Es decir, *vamos a deshacer la última acción realizada*:
 
  - Tomaremos el identificador del commit que queremos restaurar.
     ```
-    git reset --hard <identificador_del_commit>`
+    git reset --hard IDENTIFICADOR_DEL_COMMIT
     ```
  - Enviaremos los cambios a la rama master del repositorio remoto (GitHub):
     ```
