@@ -46,7 +46,7 @@ A partir de ahora trabajaremos en local y subiremos los cambios en el repositori
 **9. Modificaremos el archivo README.md para que nos muestre el logo de GitHub.**
 - Guarda el archivo README.md modificado (Ctrl + s)
 - Añade los cambios en el Stage Area.
-- Haz un commit con el comentario "añado logo GitHub".
+- Haz un commit con el comentario "muestro el logo GitHub".
 - Después haz un push.
 - Refresca la página del navegador donde tenemos el repositorio remoto en GitHub, para comprobar los cambios.
 
