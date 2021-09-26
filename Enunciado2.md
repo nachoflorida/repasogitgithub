@@ -62,4 +62,5 @@ Vamos a crear una rama nueva para programar una nueva funcionalidad y que no afe
 - Desde `main`, haz un merge con `funcionalidad1`. De este modo llevaremos los cambios hechos en `funcionalidad1` a la rama `main`.
 
 **7. Sube los cambios que hay en `main` a GitHub**
+
 **8. Comprueba en GitHub que se han subido correctamente los cambios.**
