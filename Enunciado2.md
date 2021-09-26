@@ -25,7 +25,7 @@ Nos recomienda que bajemos los archivos que tenemos en remoto.
 
 - Haremos un pull desde `origin` hasta `main`.
 
-Visual Code Studio nos informa de la existencia del conflicto. Aparece una **C** sobre el fichero `carta_bienvenida.md`, en el apartado llamado 'Merge Changes'.
+Visual Code Studio nos informa de la existencia del conflicto. Aparece una **C** sobre el fichero `carta_bienvenida.md`, en el apartado llamado 'Merge Changes'. O quizás aparece una **!** al lado del fichero `carta_bienvenida.md`.
 
 
 **3. Editamos el fichero, y aparecen las dos versiones.**
