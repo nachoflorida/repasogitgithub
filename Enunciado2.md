@@ -6,9 +6,10 @@ Recordad editar los ficheros que modifiquéis con Visual Studio Code
   Un conflicto aparece cuando en un mismo fichero existen versiones distintas en local y remoto.
   Vamos a simular uno y ver cómo lo podemos resolver:
 
-**1. En tu repositorio de GitHub, edita el archivo `carta_bienvenida.md`**
+**1. Entra en tu repositorio de GitHub con un navegador y edita el archivo `carta_bienvenida.md`**
 
 - En la línea 4 añade: `* Añadimos esta línea para generar un conflicto`
+- Guarda los cambios y haz commit desde el repositorio online.
 
 
 **2. Ahora, en tu repositorio local, con el Visual Studio Code, edita el mismo fichero**
