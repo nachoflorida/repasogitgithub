@@ -67,7 +67,7 @@ Es decir, *vamos a deshacer la última acción realizada*:
     ```
     git reset --hard IDENTIFICADOR_DEL_COMMIT
     ```
- - Enviaremos los cambios a la rama master del repositorio remoto (GitHub):
+ - Enviaremos los cambios a la rama main del repositorio remoto (GitHub):
     ```
-    git push origin HEAD:master --force
+    git push origin HEAD:main --force
     ```
